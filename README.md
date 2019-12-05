@@ -1,4 +1,4 @@
-# \[ 🚧 Work in progress 👷‍♀️⛏👷🔧️👷🔧 🚧 \]  # Mkoko-Mtaani
+# \[ 🚧 Work in progress 👷‍♀️⛏👷🔧️👷🔧 🚧 \]
 :oncoming_bus: :bus: :running: This is an Attempt to build a digital mkokoteni app that connects Riders to customers and vice versa so this is an opensource idea to help curb burglary of personal goods after depature from bus stations in urban towns 
 
 
